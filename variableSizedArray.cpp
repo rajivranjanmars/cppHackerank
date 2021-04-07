@@ -36,7 +36,10 @@ int main() {
     }
 
     for(int i = 0;i<q;i++){
-        cout << q1[i][2] <<endl;
+        int  a=q1[i][0];
+        int  b=q1[i][1];
+
+        cout << v1[a][b] <<endl;
     }
     return 0;
 }

@@ -35,6 +35,7 @@ int main() {
         q2.clear();
     }
 
+
     for(int i = 0;i<q;i++){
         int  a=q1[i][0];
         int  b=q1[i][1];

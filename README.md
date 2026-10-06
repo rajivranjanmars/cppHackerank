@@ -8,4 +8,4 @@ Compile one source file at a time, for example `g++ -std=c++17 helloWorld.cpp -o
 
 ## Author
 
-[rajivranjanmars](https://rajivranjana.in)
+[Rajiv Ranjan](https://rajivranjan.in)
